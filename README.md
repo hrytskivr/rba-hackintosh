@@ -1,5 +1,7 @@
 # Razer Blade Advanced 15" 2018 Hackintosh OpenCore
 
+[set-up]: https://i.imgur.com/9dE0Cr0.jpg
+
 ## Current version
 * OpenCore - 0.5.8
 * BIOS - 1.08
