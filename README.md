@@ -1,5 +1,9 @@
 # Razer Blade Advanced 15" 2018 Hackintosh OpenCore
 
+## Current version
+* OpenCore - 0.5.8
+* BIOS - 1.08
+
 ## Disclaimer
 This repository has no other purpose but sharing.
 I want to share my hackintosh configuration for this particular laptop with the whole world.
