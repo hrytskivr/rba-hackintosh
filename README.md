@@ -8,6 +8,7 @@ Though you can just grab and use this if you have same or very similar laptop mo
 
 ## Gratitude
 * [Hackintosh Reddit Community](https://www.reddit.com/r/hackintosh/) - for all the help and inspiration
+* [Dortania](https://github.com/dortania) - for vanilla guides
 * [Acidanthera](https://github.com/acidanthera) - for OC and lots of kexts
 * [RehabMan](https://github.com/RehabMan) - for ACPI patching guides
 * Vetz500, BlvckBytes & Takki - for original guide, help with battery, dgpu and usb-c issues
