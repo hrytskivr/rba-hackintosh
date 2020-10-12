@@ -3,7 +3,8 @@
 ![My set-up](https://i.imgur.com/9dE0Cr0.jpg "My set-up")
 
 ## Current version
-* OpenCore - 0.5.8
+* macOS - 11 Big Sur
+* OpenCore - 0.6.2
 * BIOS - 1.08
 
 ## Disclaimer
